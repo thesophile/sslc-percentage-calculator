@@ -1,4 +1,4 @@
-# SSLC percentage Calculator
+# SSLC Percentage Calculator
 
 
 
