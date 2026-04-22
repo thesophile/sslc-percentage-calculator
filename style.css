@@ -40,6 +40,9 @@ li{
 .input-selector{
   width: fit-content;
   margin: auto;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
 }
 
 .input_container{
