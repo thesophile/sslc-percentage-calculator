@@ -10,6 +10,9 @@ The SSLC(Secondary School Leaving Certificate) is obtained on passing the grade 
 Usually grades aren't given along with the certificate. So students have to calculate it.<br>
 That is the reason this project was initiated.
 
+## Usage
+ Go to [website](https://thesophile.github.io/sslc-percentage-calculator/)
+
 ## Unique Features
 
  - Tells you If you have passed or not
