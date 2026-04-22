@@ -11,10 +11,21 @@ Usually grades aren't given along with the certificate. So students have to calc
 That is the reason this project was initiated.
 
 ## Unique Features
-<ul>
-    <li>Tells you If you have passed or not</li>
-    <li>Two modes of input, you can either enter you grades or the number of each grade
-    (eg.8A+,2A)</li>
-    <li>Tells you the number of each grade in grade mode.</li>
-    <li>Calculate the accurate range of percentage instead of just giving you an upper limit</li>
-<ul>
+
+ - Tells you If you have passed or not
+ - Two modes of input, you can either enter you grades or the number of each grade (eg.8A+,2A)
+ - Tells you the number of each grade.
+ - Shows Science stream pecent too.
+ - Calculate the accurate range of percentage instead of just giving you an upper limit
+ - Instructions to find Excat Percentage.
+ - In site documention.
+
+## Contributions
+  Would be great if there is an option to calculate percentage of other states and even maybe other exams- any of which has a grading system.
+
+  Any contributions are welcome.
+
+ ## License
+   This project is licensed under GPL v3. 
+   Use, modify, and distribute the software, provided all derivatives remain open source under the same license.
+ 
